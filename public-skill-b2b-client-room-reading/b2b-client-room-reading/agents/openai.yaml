@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B Client Room Reading"
+  short_description: "Analyze B2B calls and stakeholder dynamics"
+  default_prompt: "Use $b2b-client-room-reading to analyze this B2B client-call transcript and produce an evidence-based room-reading report."
